@@ -1,4 +1,4 @@
-# The Mysterious Machine Ordner #
+# The Mysterious Machine #
 
 Please form groups of three.
 
