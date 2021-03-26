@@ -1,5 +1,4 @@
-# Machinelearingchallenges
-The Mysterious Machine Ordner
+#The Mysterious Machine Ordner
 
 
 Please form groups of three.
