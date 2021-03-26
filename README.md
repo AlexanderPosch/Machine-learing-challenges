@@ -1,13 +1,13 @@
 # Machinelearingchallenges
 The Mysterious Machine Ordner
 
-These are the files needed to carry out the first challenge.
 
 Please form groups of three.
 
 Send your results via email to Philipp.Petersen@univie.ac.at. One email per Team.
 
 Deadline: 16.04. 18:00.
+
 All submissions after 18:00 + 1 second will be ignored.
 
 The best submission, the second best submission, and the most creative submission will receive a price.
