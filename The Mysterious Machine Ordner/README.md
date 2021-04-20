@@ -1,5 +1,7 @@
 # The Mysterious Machine #
 
+### >>> We won this challenge along with 2 other groups that had a similar same solution. 
+
 Please form groups of three.
 
 Send your results via email to Philipp.Petersen@univie.ac.at. One email per Team.
@@ -40,7 +42,7 @@ def clean_dataset(data):
         if data[k,:].std()>12:
             to_drop.append(k)   
     return np.delete(data, to_drop, axis = 0)
-
+ 
 data_train = data_train_db.values
 columns=data_train_db.columns
 
