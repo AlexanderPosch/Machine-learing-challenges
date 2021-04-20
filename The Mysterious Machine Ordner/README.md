@@ -1,6 +1,6 @@
 # The Mysterious Machine #
 
-### >>> We won this challenge along with 2 other groups that had a similar same solution. 
+### >>> We won this challenge along with 2 other groups that had very similar solutions. 
 
 Please form groups of three.
 
